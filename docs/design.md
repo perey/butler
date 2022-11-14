@@ -34,7 +34,8 @@ there in the title: a murder mystery where “the butler did it”. Other featur
 * Names of said characters, swerving between cliché and pastiche. The player
   character is assigned a random name from such staples as “Jeeves” and
   “Wadsworth”. The investigator who turns up could be “Achille Pinot”, “Miss
-  Pyne”, “Willie Wong”, or “Angela Archer”.
+  Pyne” (too obscure? Oake, Alder, Harzel… ooh, Marplot?), “Willie Wong”, or
+  “Angela Archer”.
 * The investigative trio of “means, motive, and opportunity”, from police
   procedurals.
 * Assorted *instances* of means, motive, and opportunity. (Though there should
@@ -43,3 +44,33 @@ there in the title: a murder mystery where “the butler did it”. Other featur
   cute kitten!)
 * The “to do” list that forms a key part of the game interface.
 * Xs for eyes to show that someone is dead.
+
+## Details
+
+### Means
+
+* Allergies. You sneak a kitten in, hoping that its meows won’t be heard, and
+  you have to clean the fur off your clothes.
+* Balcony fall. You sabotage the wooden rail by sawing through it. (Maybe
+  pushing them off is an alternative?)
+* Falling object—an anvil, naturally. You move slowly while carrying it, making
+  it harder to get around without being witnessed.
+* Poison in the wine. The difficulty is ensuring it’s the right wine glass.
+* Scorpion in the bed. Don’t get stung yourself! (It won’t kill you, but the
+  swelling is *very* incriminating.)
+* Strangulation by piano wire garotte—avoid any telltale marks on your hands,
+  and don’t let anyone see you fiddling with the piano in the conservatory!
+
+### Motive
+
+### Opportunity
+
+### The investigation
+
+Once the murder is committed, a sleuth turns up to assess the evidence. If you
+avoided anything incriminating in all three categories, you get off scot-free!
+If there’s one piece of evidence against you, you’re eventually let off, but
+your good name is tarnished. Two pieces and you’re tried but acquitted, maybe
+on appeal after an initial conviction. All three pieces and you’re nicked.
+
+Maybe some evidence is especially damning?
