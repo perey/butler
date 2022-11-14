@@ -34,8 +34,8 @@ there in the title: a murder mystery where “the butler did it”. Other featur
 * Names of said characters, swerving between cliché and pastiche. The player
   character is assigned a random name from such staples as “Jeeves” and
   “Wadsworth”. The investigator who turns up could be “Achille Pinot”, “Miss
-  Pyne” (too obscure? Oake, Alder, Harzel… ooh, Marplot?), “Willie Wong”, or
-  “Angela Archer”.
+  Marplot” (or something tree-themed? Pyne, Oake, Alder, Harzel…), “Willie
+  Wong”, or “Angela Archer”.
 * The investigative trio of “means, motive, and opportunity”, from police
   procedurals.
 * Assorted *instances* of means, motive, and opportunity. (Though there should
